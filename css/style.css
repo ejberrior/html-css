@@ -1,0 +1,16 @@
+    table{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    h2{
+        background-color: black;
+        font-style: italic;
+        font: bold;
+        color: rgb(246, 238, 14);
+    }
+    ol{
+        color: blue;
+    }
+    ul{
+        color: brown;
+    }
+
